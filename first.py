@@ -163,4 +163,4 @@ while running:
     screen.blit(counter_text, (10, 10))
     pygame.display.flip()
 
-    clock.tick(30)
+    clock.tick(31)
